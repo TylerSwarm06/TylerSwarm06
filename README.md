@@ -5,8 +5,8 @@
 - <b>Active Directory Home Lab</b>
   - [Active Directory Home Lab](https://github.com/TylerSwarm06/LABURL)
 
-- <b>Proxmox install Lab</b>
-  - [Proxmox](https://github.com/TylerSwarm06/LABURL)
+- <b>Proxmox Install Lab</b>
+  - [Proxmox Install](https://github.com/TylerSwarm06/LABURL)
 
 
 <h2>📺 Tryhackme</h2>
