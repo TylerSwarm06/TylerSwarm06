@@ -5,6 +5,9 @@
 - <b>Active Directory Home Lab</b>
   - [Active Directory Home Lab](https://github.com/TylerSwarm06/LABURL)
 
+- <b>Proxmox install Lab</b>
+  - [Proxmox](https://github.com/TylerSwarm06/LABURL)
+
 
 <h2>📺 Tryhackme</h2>
 
@@ -17,8 +20,6 @@
 
 [linkedin]: https://linkedin.com/in/john-t-swarm-917ba8a9
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
