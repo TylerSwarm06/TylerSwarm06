@@ -16,7 +16,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="john-t-swarm-917ba8a9r | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-: https://linkedin.com/in/john-t-swarm-917ba8a9
+https://linkedin.com/in/john-t-swarm-917ba8a9
 
 
 - 🔭 I’m currently working on developing my home lab by adding new technologies to learn and practice my skills.
