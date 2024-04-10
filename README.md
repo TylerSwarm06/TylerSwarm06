@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Active Directory Home Lab](https://github.com/TylerSwarm06/LABURL)
+  - [Active Directory Home Lab](https://github.com/TylerSwarm06/active_directory)
 
 - <b>Proxmox Install Lab</b>
   - [Proxmox Install](https://github.com/TylerSwarm06/LABURL)
