@@ -21,8 +21,6 @@
 [linkedin]: https://linkedin.com/in/john-t-swarm-917ba8a9
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on developing my home lab.
-- 🌱 I’m currently learning Python, Linux and developing labs with my Le Potato single board computer.
+- 🔭 I’m currently working on developing my home lab by adding new technologies to learn and practice my skills.
+- 🌱 After attaining my Security+, I am working towards my CySA+.
 -->
