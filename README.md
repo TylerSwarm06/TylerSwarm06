@@ -1,6 +1,6 @@
 <h1>Hi, I'm John! 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Current Homelab Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
   - [Active Directory Home Lab](https://github.com/TylerSwarm06/active_directory)
