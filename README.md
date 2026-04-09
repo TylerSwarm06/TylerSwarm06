@@ -1,4 +1,4 @@
-<h1>Hi, I'm John! 
+<h1>Hi, I'm Tyler! 
 
 <h2>👨‍💻 Current Homelab Projects:</h2>
 
