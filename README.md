@@ -8,6 +8,8 @@
 - <b>Proxmox Install Lab</b>
   - [Proxmox Install](https://github.com/TylerSwarm06/ProxmoxInstall)
 
+- <b>Website</b>
+  - [Website](https://github.com/TylerSwarm06/Website)
 
 <h2>📺 Tryhackme</h2>
 
@@ -20,5 +22,6 @@ https://linkedin.com/in/john-t-swarm-917ba8a9
 
 
 - 🔭 I’m currently working on developing my home lab by adding new technologies to learn and practice my skills.
-- 🌱 After attaining my Security+, I am working towards my CySA+.
+- 🌱 After attaining my Security+, I am working towards my CCNA.
+- [Check Out my website!](https://TylerSwarm.com)
 -->
