@@ -11,10 +11,6 @@
 - <b>Website</b>
   - [Website](https://github.com/TylerSwarm06/Website)
 
-<h2>📺 Tryhackme</h2>
-
-- [Tryhackme Answers](https://github.com/TylerSwarm06/THMURL)
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="john-t-swarm-917ba8a9r | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
